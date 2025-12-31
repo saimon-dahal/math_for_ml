@@ -7,8 +7,7 @@
 - [x] [Mean, Median, Mode, Variance & Covariance](stats/descriptive_stats.ipynb)
 - [x] [Random Variables & Expected Value](stats/random_vars.ipynb)
 - [x] [Common Probability Distributions](stats/distributions.ipynb)
-- [ ] Conditional Probability
-- [ ] Bayes’ Theorem
+- [ ] Conditional Probability and Baye's Theorem
 - [ ] Maximum Likelihood Estimation (MLE)
 - [ ] Linear Regression
 - [ ] Logistic Regression
