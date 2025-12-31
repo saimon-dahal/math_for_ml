@@ -6,14 +6,7 @@
 - [x] [Populations & Sampling](stats/sampling.ipynb)
 - [x] [Mean, Median, Mode, Variance & Covariance](stats/descriptive_stats.ipynb)
 - [x] [Random Variables & Expected Value](stats/random_vars.ipynb)
-- [ ] Common Probability Distributions  
-  - [ ] Normal  
-  - [ ] Bernoulli  
-  - [ ] Binomial  
-  - [ ] Uniform 
-  - [ ] Poisson  
-  - [ ] Exponential  
-- [ ] Central Limit Theorem
+- [x] [Common Probability Distributions](stats/distributions.ipynb)
 - [ ] Conditional Probability
 - [ ] Bayes’ Theorem
 - [ ] Maximum Likelihood Estimation (MLE)
